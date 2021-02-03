@@ -9,3 +9,12 @@ cat
 rat
 mat
 
+=================Day 2=============
+\
+\ddff
+sd
+fsd
+fs
+f
+f
+
